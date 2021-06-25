@@ -1,11 +1,12 @@
-// let s = prompt('điền chữ cái')
-// function reverse (s) {
-//     var o = '';
-//     for (var i = s.length - 1; i >= 0; i--)
-//     o += s[i];
-//     return o;
-//     alert(o);
-//     }
+// B1
+// let str_input = 'Hello';
+// let text = str_input.length - 1;
+// let str_output = '';
+// while(text > -1){
+//     str_output +=str_input[text];
+//     text--;
+// }
+// console.log(str_output);
 
 // B2
 // var str = prompt('điền chữ cần')
