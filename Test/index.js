@@ -1,5 +1,5 @@
 // B1
-// let str_input = 'Hello';
+// let str_input = prompt('điền chữ muốn đảo lộn')
 // let text = str_input.length - 1;
 // let str_output = '';
 // while(text > -1){
